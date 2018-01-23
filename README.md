@@ -1,2 +1,6 @@
 # datadog
-Push events into the DataDog monitor system
+
+This module is not part of the pluf. Please refer to the following package:
+
+
+https://github.com/DataDog/php-datadogstatsd
